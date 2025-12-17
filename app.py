@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import pickle
 import matplotlib.pyplot as plt
 import seaborn as sns
 
@@ -185,3 +184,4 @@ elif menu == "🔮 Prediksi Banjir":
 # =============================
 st.markdown("---")
 st.caption("Aplikasi Klasterisasi Banjir - K-Means | Data Publik DKI Jakarta")
+
